@@ -1,3 +1,3 @@
-# form
-*output
+# output
+
 ![alt text](image.png)
